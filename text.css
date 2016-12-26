@@ -1,0 +1,19 @@
+.big{
+      width:30%;
+      margin:auto;
+     }
+.small{
+        background-color:#E78326;
+
+        width: 32%;
+
+        hight£º0;
+
+        padding-top:32%;
+
+        margin:0.5%;
+
+        border-radius:15%;
+
+        float:left;       
+       }
